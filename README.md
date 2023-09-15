@@ -4,7 +4,7 @@
 I have spatial and common sense thinking, I am also familiar with multi-threaded analysis, and I am also very willing to share my knowledge with others...
 
 ## 🏆 Achievements
-- 🥊 **1 Time Winner Fight in Kisiel...**
+- 🥊 **1 Time Winner of the Fight in Kisiel...**
 - 🐱‍👤 **Co-Creator with Sebini of #CONTENTTRANSFER hashtag spamming under Rainbow Six: Siege posts on X (Twitter) which led to its release...**
 - 🤮 **Creator of Youtube channel with amazing videos such as vomitting by RRoberciKK, throwing the headphones by Marcellus78 or AI Covers with underwhelming number of subscribers - 310...**
 - 😁 **Creator of friendly Discord bot created in discord.js named by our favorite streamer Marcellus78...**
@@ -13,7 +13,7 @@ I have spatial and common sense thinking, I am also familiar with multi-threaded
 - 💰 **Losing money on sport bets and Lotto...**
 - 👺 **Manipulating and Hipocrisy...**
 - 💀 **Dying in 16 seconds by (un)expected headshot in Hunt: Showdown (favorite game)...**
-- 👑 **Winning 17% matches in Rainbow Six: Siege...**
+- 👑 **Winning 17% of ranked matches in Rainbow Six: Siege...**
 - 😮 **and much more...**
 
 ### Languages
