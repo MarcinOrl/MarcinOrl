@@ -5,6 +5,7 @@ I'm an IT student passionate about coding, tech, and gaming.
 
 ### 🛠️ Languages & Tools  
 <p align="center">
+  <img src="https://img.shields.io/badge/Godot-3583A4?style=for-the-badge&logo=godot&logoColor=white" alt="Godot" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
