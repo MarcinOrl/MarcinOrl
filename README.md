@@ -1,5 +1,5 @@
-### Hi there! 👋  
-I'm an IT student passionate about coding, tech, and gaming.
+### Elo there! 😡  
+IT student passionate about coding, tech, and gaming.
 
 ---
 
