@@ -20,6 +20,6 @@ IT student passionate about coding, tech, and gaming.
 ### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcinOrl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcinOrl&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcinOrl&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinOrl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px"/>
 </div>
